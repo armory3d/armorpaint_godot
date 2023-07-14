@@ -1,0 +1,6 @@
+[gd_scene format=3 uid="uid://tytc5mdm7wsu"]
+
+[node name="ArmorPaint" type="Button"]
+offset_right = 464.0
+offset_bottom = 173.0
+text = "Open in ArmorPaint"
